@@ -1,0 +1,8 @@
+10:45:07.699 [main] INFO  api.test.UserTest - ********* creating user ********
+10:45:11.030 [main] INFO  api.test.UserTest - ********* created user successfully ********
+10:45:11.037 [main] INFO  api.test.UserTest - ********* getting user ********
+10:45:12.707 [main] INFO  api.test.UserTest - ********* getting user successfully ********
+10:45:12.711 [main] INFO  api.test.UserTest - ********* update user ********
+10:45:14.289 [main] INFO  api.test.UserTest - ********* update user successfully ********
+10:45:14.292 [main] INFO  api.test.UserTest - ********* delete user ********
+10:45:15.809 [main] INFO  api.test.UserTest - ********* deleting user successfully********
